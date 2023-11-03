@@ -7,7 +7,7 @@
 - Run `source venv/bin/activate` in root to enter the virtual environment.
 - Run `pip3 install -r requirements.txt` to install all project dependencies.
 
-## Running the scrips
+## Running the Scripts
 
 - Run `cd src` in root to enter the folder with the scripts.
 - Run `python3 graph_generator.py` to generate the graphs.
